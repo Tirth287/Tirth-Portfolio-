@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "name": "Tirth Parekh",
+    "title": "Business Systems Analyst @ Kitchen Concept | Analytics & Automation | Requirements Gathering • SQL • Data-Driven Solutions | Databricks Accredited - Generative AI Fundamentals",
+    "summary": "Hello, I'm Tirth Parekh, a Business Analyst & Developer who bridges business goals with technical execution. I specialize in requirements gathering, process documentation, workflow design, and converting business needs into efficient, scalable solutions. At Pinnacle Software Solutions, I support full SDLC delivery, focusing on clean code, debugging, and optimization to ensure systems are stable, secure, and long-lasting. My approach combines analytical thinking with technical clarity to deliver real business impact. Pursuing a Master’s in Business Analytics at Sacred Heart University, building on a strong foundation in Business and IT Management from Sardar Patel University. Skilled in Excel, SQL, and Tableau, I combine analytical techniques with business insight to deliver data-driven recommendations and operational efficiency. Passionate about transforming raw data into clear insights that support strategic decision-making and organizational growth.",
+    "location": "Parsippany, New Jersey, United States",
+    "email": "parekhtirth29@gmail.com",
+    "phone": "203 627 6637",
+    "links": [
+      {
+        "network": "LinkedIn",
+        "url": "www.linkedin.com/in/tirth-parekh-81824b214"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Kitchen Concept",
+      "role": "Business Systems Analyst",
+      "dates": "March 2025 - Present (1 year 1 month)",
+      "location": "New Jersey, United States",
+      "bullets": [
+        "Improved insurance claim processing systems by optimizing performance, fixing bottlenecks, and enhancing workflows for claims, policy servicing, and customer onboarding.",
+        "Built automated reports, dashboards, and integrated external data sources to enable accurate risk assessment, fraud detection, and data-driven decision-making.",
+        "Collaborated with product managers and technical teams while maintaining high code quality and recommending workflow enhancements to streamline claim settlements."
+      ]
+    },
+    {
+      "company": "Shreeji Accounting & Taxation Services",
+      "role": "Finance Support Executive",
+      "dates": "June 2023 - July 2023 (2 months)",
+      "location": "Vadodara, Gujarat, India",
+      "bullets": [
+        "Collected and analyzed financial data to identify trends, enhancing decision-making processes.",
+        "Supported budgeting and forecasting efforts, ensuring alignment with actual financial performance.",
+        "Conducted comprehensive research on industry trends and competitors, identifying investment opportunities.",
+        "Collaborated with finance teams to prepare insightful financial presentations for senior management."
+      ]
+    },
+    {
+      "company": "JDK Solution",
+      "role": "Business Solutions Analyst",
+      "dates": "December 2022 - May 2023 (6 months)",
+      "location": "Surat, Gujarat, India",
+      "bullets": [
+        "Assisted in the preparation of comprehensive reports and dashboards using Excel, SQL, and Tableau, enhancing data visibility.",
+        "Conducted in-depth research on industry trends and competitors, providing actionable insights for strategic planning.",
+        "Identified inefficiencies in business processes, recommending improvements that increased operational efficiency by 15%.",
+        "Supported project planning and documentation, ensuring timely implementation and testing of new business solutions."
+      ]
+    },
+    {
+      "company": "JNP BPO SERVICES",
+      "role": "IT Operations Analyst",
+      "dates": "June 2022 - November 2022 (6 months)",
+      "location": "Anand, Gujarat, India",
+      "bullets": [
+        "Streamlined data collection and reporting procedures, achieving a 20% reduction in processing time.",
+        "Collaborated with cross-functional teams to define project scopes and align with business objectives.",
+        "Conducted comprehensive market research, identifying over 10 key trends that informed strategic decisions."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "15%",
+      "context": "Increased operational efficiency by identifying inefficiencies in business processes and recommending improvements."
+    },
+    {
+      "metric": "20%",
+      "context": "Reduction in processing time achieved by streamlining data collection and reporting procedures."
+    },
+    {
+      "metric": "10+",
+      "context": "Key trends identified through comprehensive market research that informed strategic decisions."
+    }
+  ],
+  "projects": [],
+  "skills": [
+    {
+      "category": "Technical Skills",
+      "items": [
+        "Business Systems Analysis",
+        "Requirements Gathering",
+        "Process Documentation",
+        "Workflow Design",
+        "SDLC Delivery",
+        "Debugging & Optimization"
+      ]
+    },
+    {
+      "category": "Languages",
+      "items": [
+        "SQL",
+        "Python",
+        "R",
+        "DAX",
+        "VBA"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Tableau",
+        "Power BI",
+        "Advanced Excel",
+        "Databricks",
+        "Google Cloud Vertex AI"
+      ]
+    },
+    {
+      "category": "Analytics & AI",
+      "items": [
+        "Operational Analytics",
+        "Financial Analytics",
+        "Generative AI",
+        "Quantitative Research",
+        "Industry Trend Analysis",
+        "Fraud Detection",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "category": "Business & Management",
+      "items": [
+        "Data-Driven Decision Making",
+        "Cross-Functional Collaboration",
+        "IT Service Management",
+        "Budgeting & Forecasting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sacred Heart University",
+      "degree": "Master's degree, Business analytics",
+      "dates": "August 2023 - December 2024"
+    },
+    {
+      "institution": "Sardar Patel University (SPU), Vallabh Vidyanagar",
+      "degree": "Bachelor of Business Administration - Information Technology Management, Business Management",
+      "dates": "May 2018 - July 2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Finance Foundations: Corporate Governance"
+    },
+    {
+      "name": "Career Essentials in Business Analysis by Microsoft and LinkedIn"
+    },
+    {
+      "name": "Complete Guide to Power BI for Data Analysts by Microsoft Press"
+    },
+    {
+      "name": "Claude with Google Cloud's Vertex AI"
+    },
+    {
+      "name": "JPMorgan Chase & Co. - Quantitative Research Job Simulation"
+    }
+  ],
+  "awards": [],
+  "extra": [
+    "At Pinnacle Software Solutions, I support full SDLC delivery, focusing on clean code, debugging, and optimization to ensure systems are stable, secure, and long-lasting."
+  ]
+}
